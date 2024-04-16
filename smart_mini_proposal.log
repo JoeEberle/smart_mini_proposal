@@ -1,0 +1,9 @@
+2024-04-16 02:34:41,578 - INFO - START smart_mini_proposal =============================================
+2024-04-16 02:34:41,579 - INFO - START smart_mini_proposal Start Time = 2024-04-16 02:34:41
+2024-04-16 02:34:41,579 - INFO - smart_mini_proposal Step 0 - Initialize the configuration file parser
+2024-04-16 02:34:41,579 - INFO - Process smart_mini_proposal Step 0 - Initializing and starting Logging Process.
+2024-04-16 02:34:41,703 - INFO - PERFORMANCE smart_mini_proposal The total process duration was:0.12
+2024-04-16 02:34:41,703 - INFO - PERFORMANCE smart_mini_proposal Stop Time = 2024-04-16 02:34:41
+2024-04-16 02:34:41,704 - INFO - PERFORMANCE smart_mini_proposal Short process duration less than 3 Seconds:0.12
+2024-04-16 02:34:41,704 - INFO - PERFORMANCE smart_mini_proposal Performance optimization is not reccomended
+2024-04-16 02:34:41,704 - INFO - END smart_mini_proposal =============================================
