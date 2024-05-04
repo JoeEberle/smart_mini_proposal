@@ -10,7 +10,7 @@ Creates a mini proposal using a template and SMART criteria.
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
