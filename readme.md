@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Smart Mini Proposal - Creates a mini proposal using a template and SMART criteria.
 Creates a mini proposal using a template and SMART criteria.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Smart Mini Proposal** - an example for your projects
 Creates a mini proposal using a template and SMART criteria.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
