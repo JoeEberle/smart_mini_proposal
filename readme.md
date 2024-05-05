@@ -48,5 +48,5 @@ To get started with the **Smart Mini Proposal** solution repository, follow thes
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](smart_mini_proposal.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](smart_mini_proposal.png)  <br>
     
