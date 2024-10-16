@@ -39,11 +39,8 @@ To get started with the **Smart Mini Proposal** solution repository, follow thes
  ![additional_image](smart_mini_proposal.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
