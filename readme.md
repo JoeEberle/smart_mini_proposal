@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Smart Mini Proposal 
-    ## Creates a mini proposal using a template and SMART criteria.
+    
+# Smart Mini Proposal 
+
+## Creates a mini proposal using a template and SMART criteria.
+
     ![Image image_filename](code.png)
 Welcome to the solution **Smart Mini Proposal** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Smart Mini Proposal** solution repository, follow thes
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Smart Mini Proposal** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](smart_mini_proposal.png)  <br>
